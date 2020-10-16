@@ -59,7 +59,7 @@ export default {
 
     spotsLimit() {
       // Even numbers only!
-      return this.difficulty === 'easy' ? 18 : 46;
+      return this.difficulty === 'easy' ? 18 : 48;
     },
 
     symbolSize() {

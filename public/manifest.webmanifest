@@ -1,0 +1,30 @@
+{
+  "name": "Spots! A Memory game.",
+  "short_name": "spots game",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any"
+      },
+      {
+          "src": "icons/icon-256x256.png",
+          "sizes": "256x256",
+          "type": "image/png",
+          "purpose": "any"
+      },
+      {
+          "src": "icons/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any"
+      }
+  ],
+  "prefer_related_applications": false,
+  "related_applications": [],
+  "start_url": "/",
+  "theme_color": "#ff5276",
+  "background_color": "#883eb1"
+}

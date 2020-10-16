@@ -208,6 +208,10 @@ export const emojis = [
       symbol: "👦"
     },
     {
+      name: "brain",
+      symbol: "🧠"
+    },
+    {
       name: "bread",
       symbol: "🍞"
     },
